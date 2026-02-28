@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Agus Danangjoyo 👋</h1>
+<h1 align="center">Hi there, I'm Agus Danangjoyo a.k.a Joy 👋</h1>
 <h3 align="center">Senior Software Engineer · Backend Specialist · Cloud & Systems Architect</h3>
 
 <p align="center">
