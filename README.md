@@ -112,8 +112,7 @@ Built QC tools for liquid handler robots, boosting QA team throughput by **300%*
 
 ## 🎓 Education
 
-**Bachelor of Engineering** — Diponegoro University, Semarang, Indonesia *(2016 – 2020)*  
-GPA: 3.56 / 4.00 · Specialization in Mechatronics, Robotics, Computation & Automation  
+**Bachelor of Engineering** — Diponegoro University, Semarang, Indonesia. Im specialized in Mechatronics, Robotics, Computation & Automation
 Final project: AI/ML-powered Automated Guided Vehicle (autonomous obstacle & traffic detection)
 
 ---
